@@ -45,14 +45,10 @@ contract MyToken {
          balances[_address] -= _value;
       }
     }  
-   }  ```
+   }  
+```
 
 
-
-
-## Authors
-
-Andrianna R. Sabarillo  
+### Authors
+Andrianna R. Sabarillo
 422000869@ntc.edu.ph
-
-
